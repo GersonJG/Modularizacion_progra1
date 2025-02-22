@@ -1,0 +1,14 @@
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfoInputs.cache
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfo.cs
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.csproj.CoreCompileInputs.cache
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.exe
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.deps.json
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.runtimeconfig.json
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.dll
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.pdb
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.dll
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\refint\Modularizacion.dll
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.pdb
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.genruntimeconfig.cache
+E:\Words\Semestre 3\Programacion 1\Modularizacion\Modularizacion\Modularizacion\obj\Debug\net8.0\ref\Modularizacion.dll
